@@ -1,6 +1,6 @@
 language: node_js
 node_js: 
-  -"stable"
+  -"8.11.3"
 
 before_install:
   -npm i -g 6.7.0
